@@ -213,3 +213,4 @@ same non-commercial share-alike terms.
 
 > An LLM Wiki is not a humble pile of notes — it is living semantic memory, and a research frontier
 > wide open in front of you. *Go build.*
+"# lecturecast-llmwiki" 
